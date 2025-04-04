@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I am Ari! 👋
 
-<!--
-**ariadneteles/ariadneteles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on building data projects that connect people, animals, and insights.
+- 🌱 I’m currently learning **Machine Learning, AI**, and improving my **German** 🇩🇪.
+- 📊 I’m getting better at **Data Analytics** and **Tableau**. 
+- 👯 I’m looking to collaborate on **data-driven projects**, especially in health, travel, or sustainability.
+- 🤔 I’m looking for help with  with mastering **deep learning** and deploying ML models. 
+- 💬 Ask me about my journey from **Veterinarian to Chef to Data Analyst** – it's been wild! 🐾🍳📊
+- 📫 How to reach me: https://www.linkedin.com/in/ariadnepalumboteles/
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I’m a **Veterinarian and a Chef** – and now coding my way into the tech world!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
